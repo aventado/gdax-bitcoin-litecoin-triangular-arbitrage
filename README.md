@@ -1,4 +1,4 @@
-# gdax-triangular-arbitrage
+# gdax-bitcoin-litecoin-triangular-arbitrage
 Automated trading bot for triangular arbitrage between USD -> BTC -> LTC -> USD on Gdax
 
 Easily modified for the currencies of your choice
